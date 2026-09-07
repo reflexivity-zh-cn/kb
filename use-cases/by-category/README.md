@@ -1,13 +1,13 @@
-# 按洞察类型浏览
+# 按洞察类型浏览使用案例
 
-- [市场催化剂](market-catalyst.md)
-- [地缘政治催化剂](geopolitical-catalyst.md)
-- [公司催化剂](company-catalyst.md)
-- [财报催化剂](earnings-catalyst.md)
-- [情景洞察](scenario-insight.md)
+- [Market Catalyst](market-catalyst.md) — 9 篇
+- [Geopolitical Catalyst](geopolitical-catalyst.md) — 1 篇
+- [Company Catalyst](company-catalyst.md) — 8 篇
+- [Earnings Catalyst](earnings-catalyst.md) — 7 篇
+- [Scenario Insight](scenario-insight.md) — 3 篇
 
 ---
 
-[← Reflexivity 使用案例](../README.md)
+[← 返回全部使用案例](../README.md)
 
-如有问题或需要更多信息，请联系 **support@reflexivity.com**。
+如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

@@ -1,7 +1,27 @@
-# 公司催化剂
+# Company Catalyst
 
-翻译准备中。canonical: `reflexivity-asia/kb`。
+## 对冲基金 Tier 3
 
-[← Reflexivity 使用案例](../README.md)
+- [ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA)](../hedge-fund-tier-3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
+- [Instacart：收购 Arpalus，强化货架智能能力 (CART)](../hedge-fund-tier-3/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
+- [Arteris / IC-Link：AI 芯片设计 (AIP)](../hedge-fund-tier-3/arteris-ic-link-ai-chip-design-aip.md)
 
-如有问题或需要更多信息，请联系 **support@reflexivity.com**。
+## 对冲基金 Tier 2
+
+- [MasTec：16.5 亿美元 Superior / 数据中心交易 (MTZ)](../hedge-fund-tier-2/mastec-1-65b-superior-data-center-deal-mtz.md)
+
+## 对冲基金 Tier 1
+
+- [Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)](../hedge-fund-tier-1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
+
+## Long-only 资产管理人
+
+- [Verisk：AccuLynx 交易争议 (VRSK)](../long-only-asset-manager/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md)
+- [PPG：季度股息提高至 $0.74 (PPG)](../long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md)
+- [Enerpac：4.72 亿美元收购 SFE Group (EPAC)](../long-only-asset-manager/enerpac-buys-sfe-group-472m-epac.md)
+
+---
+
+[← 洞察类型列表](README.md) · [全部使用案例](../README.md)
+
+如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

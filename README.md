@@ -8,7 +8,7 @@ _产品资料将陆续添加。_
 
 ## 使用案例
 
-[按用户角色和洞察类型浏览使用案例 →](use-cases/README.md)
+[按角色或洞察类型浏览使用案例 →](use-cases/README.md)
 
 ## 文章
 
@@ -20,4 +20,4 @@ _发布说明将陆续添加。_
 
 ---
 
-如有问题或需要更多信息，请联系 **support@reflexivity.com**。
+如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

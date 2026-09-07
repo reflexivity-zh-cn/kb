@@ -1,7 +1,11 @@
-# 地缘政治催化剂
+# Geopolitical Catalyst
 
-翻译准备中。canonical: `reflexivity-asia/kb`。
+## 财富管理 / RIA
 
-[← Reflexivity 使用案例](../README.md)
+- [特朗普威胁与西班牙的贸易关系 (EWP)](../wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md)
 
-如有问题或需要更多信息，请联系 **support@reflexivity.com**。
+---
+
+[← 洞察类型列表](README.md) · [全部使用案例](../README.md)
+
+如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

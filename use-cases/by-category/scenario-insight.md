@@ -1,7 +1,16 @@
-# 情景洞察
+# Scenario Insight
 
-翻译准备中。canonical: `reflexivity-asia/kb`。
+## 对冲基金 Tier 3
 
-[← Reflexivity 使用案例](../README.md)
+- [Gulf Resources：分析师下调销售预测 (GURE)](../hedge-fund-tier-3/gulf-resources-analyst-sales-forecast-decline-gure.md)
+- [Fortrea：异常大幅抛售 (FTRE)](../hedge-fund-tier-3/fortrea-unusually-large-selloff-ftre.md)
 
-如有问题或需要更多信息，请联系 **support@reflexivity.com**。
+## 对冲基金 Tier 2
+
+- [Xerox：异常大幅抛售 (XRX)](../hedge-fund-tier-2/xerox-unusually-large-selloff-xrx.md)
+
+---
+
+[← 洞察类型列表](README.md) · [全部使用案例](../README.md)
+
+如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
