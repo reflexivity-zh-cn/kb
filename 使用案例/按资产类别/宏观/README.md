@@ -7,6 +7,10 @@
 - [从反证角度挑战“美国经济强劲”的投资假设](challenge-strong-us-economy-thesis.md) — `RX-USECASE-0035`
 - [检验市场叙事是否得到广泛硬数据支持](market-narrative-vs-hard-data-breadth.md) — `RX-USECASE-0036`
 - [用长指令结构化复杂研究](structured-long-form-research-prompts.md) — `RX-USECASE-0039`
+- [在 FOMC 会议前建立加息情景框架](fomc-rate-hike-scenarios.md) — `RX-USECASE-0041`
+- [按潜在市场影响给本周美国事件排序](weekly-us-market-events.md) — `RX-USECASE-0042`
+- [用 Market Catalyst 快速筛选 Beige Book 的市场重点](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
+- [为 Jackson Hole 讲话建立情景和潜在市场反应框架](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
 
 ## 相关跨资产使用案例
 
@@ -18,7 +22,7 @@
 - [比较主要市场 10 年期政府债券收益率](../固定收益/global-10y-government-yields.md) — `RX-USECASE-0040`
 - [分析日元快速升值的驱动因素及其是否扩散到其他货币](../FX/yen-strength-background-outlook.md) — `RX-USECASE-0044`
 
-上述页面直接依据英文 canonical 文档本地化，并保留 stable ID、数字、日期、限制条件、来源区分和原有不确定性。当前已完成第一批宏观页面。
+英文 canonical 中当前 reviewed Macro surface 已全部同步为简体中文。stable ID、数字、日期、限制条件、来源区分和事件情景的不确定性均保持一致。
 
 ---
 
