@@ -1,6 +1,6 @@
 # Reflexivity 使用案例
 
-可按**角色**或**洞察类型**浏览 Reflexivity 的实际案例。点击任一条目即可进入对应的独立使用案例文章。
+可按**角色**、**洞察类型**或**资产类别**浏览 Reflexivity 的实际案例。点击任一条目即可进入对应的独立使用案例文章。
 
 > 以下案例基于特定日期的平台输出。使用前请与最新市场数据核对，或将其作为说明性案例展示。
 
@@ -20,9 +20,15 @@
 - [Earnings Catalyst](分类浏览/earnings-catalyst.md) — 7 篇
 - [Scenario Insight](分类浏览/scenario-insight.md) — 3 篇
 
+## 按资产类别浏览
+
+- [按资产类别查看研究与工作流案例 →](按资产类别/README.md)
+
+该入口用于同步英文 canonical 中已经验证的研究型使用案例。一个案例即使适用于多个视角，也只保留一份正文并通过链接复用。
+
 ## Resource
 
-本集合整理自 **Reflexivity Insights Proof Set — Sales Enablement.docx**（2026-09-07 提供）。每篇独立文章均保留原始 Live Reflexivity Insight 链接。
+现有 proof-set 案例整理自 **Reflexivity Insights Proof Set — Sales Enablement.docx**（2026-09-07 提供）。新增的资产类别页面则直接依据 `reflexivity-asia/kb` 英文 canonical 文档同步，并保留相同 stable ID。
 
 如需查看原始资料、确认出处或访问源文件，请联系 **jim@reflexivity.com**。
 
