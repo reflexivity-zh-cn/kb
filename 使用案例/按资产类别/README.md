@@ -9,8 +9,9 @@
 - [FX](FX/README.md) — 已同步英文 canonical 的 3 篇页面
 - [固定收益](固定收益/README.md) — 已同步英文 canonical 的 6 篇页面
 - [宏观](宏观/README.md) — 已同步英文 canonical 的 7 篇页面
+- [股票](股票/README.md) — 已同步第一批 4 篇页面，验证进行中
 
-其他资产类别将按照英文 canonical 已验证内容分批同步。
+股票的剩余页面和其他资产类别将按照英文 canonical 已验证内容分批同步。
 
 ---
 
