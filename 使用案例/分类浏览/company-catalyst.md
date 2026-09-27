@@ -2,17 +2,17 @@
 
 ## 对冲基金 Tier 3
 
-- [ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA)](../对冲基金Tier3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
-- [Instacart：收购 Arpalus，强化货架智能能力 (CART)](../对冲基金Tier3/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
-- [Arteris / IC-Link：AI 芯片设计 (AIP)](../对冲基金Tier3/arteris-ic-link-ai-chip-design-aip.md)
+- [ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA)](../按资产类别/股票/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
+- [Instacart：收购 Arpalus，强化货架智能能力 (CART)](../按资产类别/股票/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
+- [Arteris / IC-Link：AI 芯片设计 (AIP)](../按资产类别/股票/arteris-ic-link-ai-chip-design-aip.md)
 
 ## 对冲基金 Tier 2
 
-- [MasTec：16.5 亿美元 Superior / 数据中心交易 (MTZ)](../对冲基金Tier2/mastec-1-65b-superior-data-center-deal-mtz.md)
+- [MasTec：16.5 亿美元 Superior / 数据中心交易 (MTZ)](../按资产类别/股票/mastec-1-65b-superior-data-center-deal-mtz.md)
 
 ## 对冲基金 Tier 1
 
-- [Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)](../对冲基金Tier1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
+- [Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)](../按资产类别/股票/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
 
 ## Long-only 资产管理人
 
