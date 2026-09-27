@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
+canonical_path: usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
 status: draft
 translation_status: review-needed
 -->
 
 # ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA) — 中性
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可在几分钟内完成投资逻辑检查，并决定是逆势看待抛售�
 
 ---
 
-[← 对冲基金 Tier 3](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
