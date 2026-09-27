@@ -10,10 +10,10 @@
 
 ## 对冲基金 Tier 1
 
-- [美国 AI 芯片出口限制冲击半导体 (SMH)](../对冲基金Tier1/us-ai-chip-export-curb-hits-semis-smh.md)
-- [Palantir 业绩超预期强化 AI 软件需求映射 (PLTR)](../对冲基金Tier1/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md)
-- [AI 芯片去评级拖累半导体 ETF (SMH)](../对冲基金Tier1/ai-chip-de-rating-hits-semiconductor-etfs-smh.md)
-- [DeepSeek 推理芯片 / AI 芯片压力](../对冲基金Tier1/deepseek-inference-chip-ai-chip-pressure.md)
+- [美国 AI 芯片出口限制冲击半导体 (SMH)](../按资产类别/股票/us-ai-chip-export-curb-hits-semis-smh.md)
+- [Palantir 业绩超预期强化 AI 软件需求映射 (PLTR)](../按资产类别/股票/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md)
+- [AI 芯片去评级拖累半导体 ETF (SMH)](../按资产类别/股票/ai-chip-de-rating-hits-semiconductor-etfs-smh.md)
+- [DeepSeek 推理芯片 / AI 芯片压力](../按资产类别/股票/deepseek-inference-chip-ai-chip-pressure.md)
 
 ---
 
