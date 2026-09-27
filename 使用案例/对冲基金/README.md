@@ -18,10 +18,15 @@
 - [UNH：Q2 超预期并上调指引 (UNH)](../按资产类别/股票/unh-q2-beat-and-guidance-raise-unh.md) — 2026-07-16 — 看多
 - [MasTec：16.5 亿美元 Superior / 数据中心交易 (MTZ)](../按资产类别/股票/mastec-1-65b-superior-data-center-deal-mtz.md) — 2026-07-08 — 看多
 - [Root：7 月 8 日业务更新 (ROOT)](../按资产类别/股票/root-jul-8-business-update-root.md) — 2026-07-08 — 中性
-- [Xerox：异常大幅抛售 (XRX) — 看多信号](../按资产类别/股票/xerox-unusually-large-selloff-xrx.md) — 2026-07-08 — Bullish signal
+- [Xerox：异常大幅抛售 (XRX)](../按资产类别/股票/xerox-unusually-large-selloff-xrx.md) — 2026-07-08 — 看多
 
 ## Tier 3
 
+- [Gulf Resources：分析师下调销售预测 (GURE)](../按资产类别/股票/gulf-resources-analyst-sales-forecast-decline-gure.md) — 2026-08-11 — 看空
+- [ACV：VIPER 全国推出，扩大经销商车源获取 (ACVA)](../按资产类别/股票/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md) — 2026-08-10 — 中性
+- [Fortrea：异常大幅抛售 (FTRE)](../按资产类别/股票/fortrea-unusually-large-selloff-ftre.md) — 2026-08-04 — 看空
+- [Instacart：收购 Arpalus，强化货架智能能力 (CART)](../按资产类别/股票/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) — 2026-07-16 — 看多
+- [Arteris / IC-Link：AI 芯片设计 (AIP)](../按资产类别/股票/arteris-ic-link-ai-chip-design-aip.md) — 2026-07-08 — 看多
 
 ## 合作方提供的研究案例
 
