@@ -94,6 +94,8 @@ publication_mode: faithful-source-preserving
 
 这里保留了一个可复用的研究流程：问题、测试设计、参数扫描、样本外挑战、限制条件，以及对哪些部分没有经受住检验的解释。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
+
 ---
 
 [← FX 使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

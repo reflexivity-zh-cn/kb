@@ -93,6 +93,8 @@ EUR/USD、EUR/CHF 和 EUR/JPY 空头均被列为可能表达方式，也包括�
 
 这个案例展示了如何从主权—信用市场的异常关系出发，构建利率、信用、FX、股票、波动率和基差市场中的多种表达方式，同时明确保留失效条件，而不是停留在市场叙事层面。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

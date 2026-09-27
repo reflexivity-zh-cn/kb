@@ -94,6 +94,8 @@ headline 看起来强劲，但更广泛的劳动力证据并没有同样支持�
 
 这个案例展示了如何在多个独立证据集之间衡量叙事广度，并识别 headline 很强、但市场内部或经济整体并未同样确认的环境。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
+
 ---
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

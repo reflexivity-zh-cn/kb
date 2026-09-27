@@ -76,6 +76,8 @@ publication_mode: faithful-source-preserving
 
 这个案例同时展示了自动化假设检验的价值和边界：Reflexivity 可以结构化历史测试并暴露误报，但分析者仍需要质疑异常统计，并在把输出当作既定证据之前验证数据定义。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

@@ -131,6 +131,8 @@ publication_mode: faithful-source-preserving
 
 这里展示的是可重复使用的研究过程，而不是一个最终观点：从起始问题、数据层、支持和反对证据，到明确假设、情景框架，以及会改变观点的条件。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← FX 使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

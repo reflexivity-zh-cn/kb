@@ -111,6 +111,8 @@ publication_mode: faithful-source-preserving
 
 这个案例展示了如何同时从需求、劳动力、调查、信贷和利率多条线索压测宏观假设，并保留互相冲突的证据，而不是把所有信息平滑成一个单一叙事。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)
+
 ---
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

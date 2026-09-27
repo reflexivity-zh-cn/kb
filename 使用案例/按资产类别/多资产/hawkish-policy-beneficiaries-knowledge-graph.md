@@ -85,6 +85,8 @@ Graph 或 Sankey 图中的连线宽度**不是**现金流、盈利敏感度或�
 
 这个工作流展示了如何把宏观政策观点转化为结构化的传导渠道、行业和具体公司链条，再把这些候选交给后续更深入的基本面研究。
 
+[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
