@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/simon-property-group-mixed-print-guide-raised-spg.md
+canonical_path: usecases/byasset/equities/simon-property-group-mixed-print-guide-raised-spg.md
 status: draft
 translation_status: review-needed
 -->
 
 # Simon Property Group：业绩分化，上调指引 (SPG) — 中性
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可以围绕上调的指引及资本回报进行仓位判断：股息提高 4
 
 ---
 
-[← 对冲基金 Tier 2](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
