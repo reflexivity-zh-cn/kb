@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/transdigm-clean-beat-and-higher-outlook-tdg.md
+canonical_path: usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md
 status: draft
 translation_status: review-needed
 -->
 
 # TransDigm：业绩超预期并上调展望 (TDG) — 看多
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可在业绩发布后股价上涨 7.6% 的背景下据上调幅度调整仓�
 
 ---
 
-[← 对冲基金 Tier 2](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
