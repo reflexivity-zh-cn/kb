@@ -3,7 +3,6 @@ id: RX-USECASE-0054
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-20
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 追踪美国长期利率上升如何传导到日本市场
 
-**作者：** QUICK Corporation  
+[← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-20  
 **主要资产类别：** 固定收益、股票、FX、宏观、多资产
 
-> 本页保留 QUICK 提供的使用案例，同时移除客户、收件人、签名和私有链接信息。市场点位和解释均为原资料时点的历史快照。
+> 本案例市场点位和解释均为原资料时点的历史快照。
 
-## 原始问题
+## 问题
 
 美国长期利率正在上升。这会如何影响日本货币政策和日本经济？对银行、房地产、出口企业等主题又意味着什么？
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 重点是逐段检验每一个连接，而不是从“美国收益率上升”直接跳到行业结论。
 
-## 原资料快照
+## 当时的市场快照
 
 在 QUICK 原资料时点：
 
@@ -66,7 +66,7 @@ publication_mode: faithful-source-preserving
 2. **日本长期收益率上升** — 全球久期压力与国内正常化可能相互强化。
 3. **双向经济影响** — 出口企业和入境消费相关企业可能受益于日元走弱，而家庭和内需面对更高进口成本。
 
-## 原资料快照中的行业含义
+## 当时的行业含义
 
 | 主题 | 1 年收益 | 1 个月收益 | 原资料中的利率敏感度 |
 | --- | ---: | ---: | --- |
@@ -109,5 +109,10 @@ publication_mode: faithful-source-preserving
 这是一个可复用的跨资产工作流：把海外利率冲击依次通过利差、汇率、货币政策反应和国内行业表现进行追踪。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

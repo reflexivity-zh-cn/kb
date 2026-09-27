@@ -3,7 +3,6 @@ id: RX-USECASE-0041
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-15
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 在 FOMC 会议前建立加息情景框架
 
-**作者：** QUICK Inc.  
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-15  
 **主要资产：** 宏观、固定收益、FX、多资产  
-**适用用户：** Long-only 资产管理人、对冲基金 Tier 1、财富管理 / RIA
+**适用用户：** Long-only 资产管理人、对冲基金、财富管理 / RIA
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。它保留的是带明确日期的会前情景分析，而不是当前预测。下文概率和宏观数据均为原资料时点的快照。
+> 它保留的是带明确日期的会前情景分析，而不是当前预测。下文概率和宏观数据均为原资料时点的快照。
 
 原问题可概括为：考虑通胀、油价上涨和更广泛的宏观背景，FOMC 本周会议上，主席可能如何讨论潜在加息？
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先检查通胀、油价、劳动力和当前政策利率；再看市场已经定价了什么；最后列出基准、维持不变和偏鸽替代情景，并明确每种情景需要哪些条件支持。
 
-## 原资料时点的宏观快照
+## 当时的宏观快照
 
 | 指标 | 原资料数值 | 日期 | 原资料的政策解读 |
 |---|---:|---|---|
@@ -47,7 +47,7 @@ publication_mode: faithful-source-preserving
 
 原资料描述主席更重视控制通胀，并较少依赖广泛的 forward guidance。但分析并不直接把这一性格描述当作预测，而是进一步检查新数据和市场定价是否支持它。
 
-## 原资料的情景图
+## 情景图
 
 | 情景 | 原资料市场概率 | 政策动作 | 原资料假设的沟通模式 |
 |---|---:|---|---|
@@ -82,5 +82,10 @@ publication_mode: faithful-source-preserving
 这个案例展示了如何围绕宏观约束、市场已定价内容、替代政策路径，以及验证或推翻每条路径的沟通方式来组织事件风险研究。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

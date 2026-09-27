@@ -3,7 +3,6 @@ id: RX-USECASE-0051
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-05
 status: published
@@ -16,14 +15,15 @@ publication_mode: faithful-source-preserving
 
 # 比较 S&P 500 与 Russell 2000，并找出小盘股领涨者
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-05  
 **主要资产：** 股票  
-**适用用户：** Long-only Asset Manager、Hedge Fund Tier 2、Hedge Fund Tier 3
+**适用用户：** Long-only 资产管理人、对冲基金
 
 > QUICK 原资料提供了研究问题和一个私有 Research 结果链接。该私有结果并未公开。下文对工作流的说明属于**对原问题研究逻辑的编辑性澄清，并不是对不可访问 Research 输出的重构**。
 
-## 原始问题
+## 问题
 
 > 比较并分析从 2026 年 1 月至今 S&P 500 和 Russell 2000 的表现。然后找出 Russell 2000 中表现最好的五只成分股，并解释它们股价上涨的原因。
 
@@ -77,5 +77,10 @@ publication_mode: faithful-source-preserving
 由于这里没有重构原私有 Research 结果，本页只展示原问题所支持的可复用分析顺序：**基准比较 → 领涨股提取 → 催化剂分析 → 市场广度解读**。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

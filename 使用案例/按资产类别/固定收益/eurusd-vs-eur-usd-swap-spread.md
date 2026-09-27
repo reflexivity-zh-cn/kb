@@ -13,6 +13,8 @@ publication_mode: faithful-source-preserving
 
 # 比较 EUR/USD 与欧元—美元掉期利差的变化
 
+[← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产：** 固定收益、利率、FX、多资产
 
@@ -42,4 +44,4 @@ publication_mode: faithful-source-preserving
 
 ---
 
-[← 固定收益使用案例](README.md) · [FX 使用案例](../FX/README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+[← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

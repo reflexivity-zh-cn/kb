@@ -3,7 +3,6 @@ id: RX-USECASE-0059
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-03-02
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 分析伊朗遭到攻击情景下的跨资产影响
 
-**作者：** QUICK Corporation  
+[← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-03-02  
 **主要资产类别：** 大宗商品、股票、FX、固定收益、宏观、多资产
 
 > 本页保留 QUICK 于 **2026-03-02** 提供的一份有明确日期、带条件的情景分析。它**不是当前地缘政治预测，也不是投资建议**。这个使用案例的价值在于研究结构：先确定起点，再区分短期与中期传导，用历史压力阶段校准，并明确哪些变量会改变情景。
 
-## 原始问题
+## 问题
 
 > 如果美国和以色列攻击伊朗，短期和中期内，石油、黄金、股票和美元可能受到什么影响？
 
@@ -40,7 +40,7 @@ publication_mode: faithful-source-preserving
 
 **当前定价 → 短期 / 中期情景 → 历史校准 → 风险 / 收益框架 → 需要监控的变量**。
 
-## 原资料中的起始市场环境
+## 起始市场环境
 
 截至 2026-02-26，QUICK 原资料使用以下市场快照：
 
@@ -52,7 +52,7 @@ publication_mode: faithful-source-preserving
 
 原资料先确定起点的理由很简单：同样的冲击，对已经大幅延伸的资产和仍处于相对低位的资产，边际影响可能完全不同。
 
-## 原资料中的短期与中期情景区间
+## 短期与中期情景区间
 
 | 资产 | 原资料起始水平 | 1–7 天情景 | 1–6 个月情景 |
 | --- | ---: | --- | --- |
@@ -129,5 +129,10 @@ publication_mode: faithful-source-preserving
 这是一个地缘政治冲击的情景分析模板：在把事件转化为跨资产研究流程时，明确保留起始点、时间期限、传导机制、历史校准和会使情景失效的条件。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

@@ -13,23 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2
 -->
 
-# 特朗普威胁与西班牙的贸易关系 (EWP) — 看空
+# 特朗普威胁与西班牙的贸易关系 (EWP)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+[← 财富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
-> **审核稿** — 以下为 2026 年 7 月 8 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
+**角色：** 财富管理 / RIA<br>
+**洞察类型：** Geopolitical Catalyst<br>
+**信号：** 看空<br>
+**日期：** 2026-07-08
 
-**角色:** 财富管理 / RIA  
-**洞察类型:** Geopolitical Catalyst  
-**信号:** 看空
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)**
 
@@ -45,11 +43,13 @@ Reflexivity 将言辞与政策分开，把它定义为 headline risk，而非已
 
 顾问可以用克制、带来源的说明安抚客户，并在言辞进一步升级时关注 Santander、BBVA、Inditex、Iberdrola 等西班牙相关公司。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)
 
 ---
 
-[← 财富管理 / RIA](README.md) · [← 全部使用案例](../README.md)
+[← 财富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

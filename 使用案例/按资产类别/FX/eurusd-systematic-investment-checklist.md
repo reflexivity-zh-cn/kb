@@ -16,12 +16,14 @@ publication_mode: faithful-source-preserving
 
 # 把 EUR/USD 投资观点转化为系统化检查清单
 
+[← FX 使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产：** FX（EUR/USD）  
 **适用用户：** FX PM、宏观 PM、多资产投资者  
 **分析类型：** 宏观分析、投资决策框架、情景分析
 
-> 本页依据英文 canonical 文档本地化，保留原始研究逻辑和当时的市场观察，并纳入经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
+> 本案例保留原始研究逻辑和当时的市场观察，并纳入经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
@@ -119,7 +121,7 @@ publication_mode: faithful-source-preserving
 | 欧元看空 | 1.1200–1.1300 | 60% | 欧洲衰退、Fed higher-for-longer、美元避险需求 |
 | 基准 | 1.1400–1.1600 | 15% | 政策分化推动欧元逐步走弱 |
 
-## 原研究结论
+## 结论
 
 在原研究时点，输出对欧元方向的判断为**偏空**，对未来 3–6 个月的确信度较高。支持因素包括利差、美国相对更强的经济动能、欧元相对回归模型偏贵、政策分化、技术面和风险情绪。
 

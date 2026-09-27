@@ -13,23 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967
 -->
 
-# PPG：季度股息提高至 $0.74 (PPG) — 看多
+# PPG：季度股息提高至 $0.74 (PPG)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+[← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../README.md)
 
-> **审核稿** — 以下为 2026 年 7 月 16 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
+**角色：** Long-only 资产管理人<br>
+**洞察类型：** Company Catalyst<br>
+**信号：** 看多<br>
+**日期：** 2026-07-16
 
-**角色:** Long-only 资产管理人  
-**洞察类型:** Company Catalyst  
-**信号:** 看多
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
 
@@ -45,11 +43,13 @@ Reflexivity 将其视为管理层对现金流信心的信号，同时也指出�
 
 PM 可快速了解资本配置姿态：股息从 $0.71 提高至 $0.74，经董事会批准，8 月 10 日为股权登记日，9 月 11 日为支付日，并将其纳入长期持仓审查。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---
 
-[← Long-only 资产管理人](README.md) · [← 全部使用案例](../README.md)
+[← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

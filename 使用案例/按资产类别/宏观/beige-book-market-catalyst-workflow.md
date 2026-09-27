@@ -3,7 +3,6 @@ id: RX-USECASE-0049
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-03
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 用 Market Catalyst 快速筛选 Beige Book 的市场重点
 
-**作者：** QUICK Inc.  
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-03  
 **主要资产：** 宏观、股票、固定收益  
-**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金 Tier 1
+**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。客户名、收件人、邮箱、签名和私有 URL 已移除，同时尽可能保留原工作流和解释顺序。
+> 本案例保留原工作流和解释顺序。
 
 原资料以 Federal Reserve Beige Book 为示例，展示如何使用 Market Catalyst 查看重要新闻和市场分析。
 
@@ -52,7 +52,7 @@ Market Catalyst 从事件 headline 提供进入分析的入口。工作流先把
 
 例如，识别出一个对市场重要的 Beige Book 信息后，分析者可以进一步进入与投资组合最相关的地区、行业、通胀、就业或政策问题，而不是把整份文件的每一部分都视为同等重要。
 
-## 原资料视觉状态
+## 视觉资料
 
 经审阅的日文公开页面中有一张经过验证的 QUICK 原始截图，显示 Market Catalyst 中的 Beige Book。该图片尚未以字节一致方式同步到下游仓库，因此本页有意不发布损坏链接或替代图片。
 
@@ -61,5 +61,10 @@ Market Catalyst 从事件 headline 提供进入分析的入口。工作流先把
 这是一个从广泛信息源进入优先研究路径的案例：先配置相关覆盖范围，找到重要 catalyst，阅读分析，再用结果决定下一道研究问题。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

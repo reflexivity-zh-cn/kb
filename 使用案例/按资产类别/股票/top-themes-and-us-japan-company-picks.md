@@ -3,7 +3,6 @@ id: RX-USECASE-0047
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2025-12-26
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 把强势主题转化为美国和日本公司候选
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2025-12-26  
 **主要资产：** 股票  
-**适用用户：** Long-only 资产管理人、对冲基金 Tier 2、对冲基金 Tier 3
+**适用用户：** Long-only 资产管理人、对冲基金
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。客户名、收件人、邮箱、签名和私有 URL 已移除，同时尽可能保留原问题、候选名单和筛选逻辑。这里的名单是研究起点，不是推荐清单。
+> 本案例保留原问题、候选名单和筛选逻辑。这里的名单是研究起点，不是推荐清单。
 
 ## 什么时候适合这套工作流
 
@@ -35,11 +35,11 @@ publication_mode: faithful-source-preserving
 
 原始 prompt 并没有限制只能找上市公司，也还没有应用财务质量筛选，因此 JAXA 这样的非上市机构也会出现在原资料输出中。
 
-## 原研究 prompt
+## 研究 prompt
 
 > 对基因编辑、卫星技术、太空探索、铜矿和黄金生产这些主题，每个类别列出 3 家美国相关组织和 3 家日本相关组织。
 
-## 原资料候选宇宙
+## 候选宇宙
 
 ### 基因编辑
 
@@ -120,7 +120,7 @@ publication_mode: faithful-source-preserving
 
 这样可以避免把“强势主题”直接变成“买入名单”。主题先扩大搜索空间，再用投资约束收窄候选。
 
-## 原资料视觉状态
+## 视觉资料
 
 经审阅的日文公开页面中有经过验证的 QUICK 原始 screen。该图片尚未以字节一致方式同步到下游仓库，因此本页不发布损坏链接或替代图。
 
@@ -129,5 +129,10 @@ publication_mode: faithful-source-preserving
 这个工作流从市场领导力出发，把强势主题转化成跨市场研究宇宙，在真正应用可投资性、基本面和估值筛选之前，帮助发现不那么显眼的公司候选。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

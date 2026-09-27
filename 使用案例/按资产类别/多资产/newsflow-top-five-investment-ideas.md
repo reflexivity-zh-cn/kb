@@ -12,6 +12,8 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 
 # 把当天新闻流转化为五个值得研究的投资想法
 
+[← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产类别：** 多资产、宏观、股票、固定收益
 

@@ -13,23 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/long-only-asset-manager/sysco-beats-and-lifts-the-fy27-setup-syy.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723
 -->
 
-# Sysco：业绩超预期并改善 FY27 预期 (SYY) — 看多
+# Sysco：业绩超预期并改善 FY27 预期 (SYY)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+[← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../README.md)
 
-> **审核稿** — 以下为 2026 年 8 月 4 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
+**角色：** Long-only 资产管理人<br>
+**洞察类型：** Earnings Catalyst<br>
+**信号：** 看多<br>
+**日期：** 2026-08-04
 
-**角色:** Long-only 资产管理人  
-**洞察类型:** Earnings Catalyst  
-**信号:** 看多
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)**
 
@@ -45,11 +43,13 @@ Q4 调整后 EPS $1.53、收入 $22.1B 均超预期；53 周 FY27 指引为收�
 
 PM 可以直接看到资本配置状态，包括 $2.1B 自由现金流、2.7x 净杠杆以及 Jetro 交易，从而在多年持仓评估中判断股东回报能力是否维持。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)
 
 ---
 
-[← Long-only 资产管理人](README.md) · [← 全部使用案例](../README.md)
+[← Long-only 资产管理人使用案例](README.md) · [全部使用案例](../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

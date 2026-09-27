@@ -13,23 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/wealth-management-ria/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401
 -->
 
-# 美国住房数据指向更明显的需求下行 (SPY) — 看空
+# 美国住房数据指向更明显的需求下行 (SPY)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+[← 财富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
-> **审核稿** — 以下为 2026 年 7 月 16 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
+**角色：** 财富管理 / RIA<br>
+**洞察类型：** Market Catalyst<br>
+**信号：** 看空<br>
+**日期：** 2026-07-16
 
-**角色:** 财富管理 / RIA  
-**洞察类型:** Market Catalyst  
-**信号:** 看空
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
 
@@ -45,11 +43,13 @@ Reflexivity 将其解释为住房相关周期股——住宅建筑商、供应�
 
 顾问可向客户解释原始资料中记录的 pending-home-sales 数据低于预期（-5.4% vs -0.5%）以及偏弱的 NAHB 数据，并提示应关注哪些住房相关公司。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)
 
 ---
 
-[← 财富管理 / RIA](README.md) · [← 全部使用案例](../README.md)
+[← 财富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

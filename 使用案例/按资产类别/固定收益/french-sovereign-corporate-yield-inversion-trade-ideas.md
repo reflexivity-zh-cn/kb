@@ -16,12 +16,14 @@ publication_mode: faithful-source-preserving
 
 # 从法国主权信用压力构建相对价值交易思路
 
+[← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产：** 固定收益、FX、跨资产  
 **适用用户：** 固定收益 PM、宏观 PM、多资产投资者  
 **分析类型：** 相对价值、交易构建、情景分析
 
-> 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和当时的市场观察。下文交易和价格水平均为历史研究输出，不构成当前建议。
+> 本案例保留底层 Reflexivity 研究和当时的市场观察。下文交易和价格水平均为历史研究输出，不构成当前建议。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
@@ -29,7 +31,7 @@ publication_mode: faithful-source-preserving
 
 原研究从一个异常关系开始：法国主权债收益率与高质量法国公司债收益率之间出现反常结构，同时政治风险上升。研究问题不仅是这种错位是否有意义，还包括：**如何在不同市场中表达这一观点？**
 
-### 原研究中的市场环境
+### 市场环境
 
 - 法国 10 年期国债收益率：**3.507%**
 - 德国 10 年期国债收益率：**2.714%**，法德利差 **79 bp**
@@ -85,7 +87,7 @@ EUR/USD、EUR/CHF 和 EUR/JPY 空头均被列为可能表达方式，也包括�
 - 个别法国公司债的流动性限制
 - 更广泛的欧洲危机导致法国与原本作为“安全”对冲市场之间的关系失效
 
-## 原研究偏好的表达方式
+## 相对价值表达
 
 原研究最终优先选择 **做多 5–10 年高质量法国公司债 / 做空法国国债**，因为这一表达与核心错位最直接相关。
 

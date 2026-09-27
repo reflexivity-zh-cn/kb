@@ -3,7 +3,6 @@ id: RX-USECASE-0046
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-11
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 检验 iPhone 发布前后 AAPL 的股价模式
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-11  
 **主要资产：** 股票  
-**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金 Tier 2、对冲基金 Tier 3
+**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。客户名、收件人、邮箱、签名和私有 URL 已移除，同时尽可能保留原问题、历史比较、反证和后续研究逻辑。产品信息和市场数字均为原资料时点快照。
+> 本案例保留原问题、历史比较、反证和后续研究逻辑。产品信息和市场数字均为原资料时点快照。
 
 > 分析过去五年新 iPhone 发布与 AAPL 股价之间的关系，并分析最新 Duo 发布后的市场反应。
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先把发布日反应与之后几周或季度的表现分开，建立历史基准，再判断最新事件是否真的异常。
 
-## 原资料中的历史模式
+## 历史模式
 
 | 年份 | 发布事件 | 发布前 | 即时反应 | 随后几周 |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ publication_mode: faithful-source-preserving
 
 因此，定价带来的积极股价反应并不自动意味着盈利结果也会改善。
 
-## 原资料结论
+## 结论
 
 最新事件一方面与历史相似——发布日反应仍较平淡；另一方面，第二天买盘明显更强，属于不同之处。
 
@@ -89,11 +89,11 @@ publication_mode: faithful-source-preserving
 4. 用供给、利润率和公司特有风险挑战正面解释；
 5. 等真实经营数据出现后更新观点。
 
-## 原资料视觉状态
+## 视觉资料
 
 经审阅的日文公开页面中有经过验证的 QUICK 原始图。该图片尚未以字节一致方式同步到下游仓库，因此本页不发布损坏链接或替代图片。
 
-## 来源基础
+## 资料来源
 
 - Entity: AAPL:NASD
 - Time series: AAPL:NASD.price
@@ -104,5 +104,10 @@ publication_mode: faithful-source-preserving
 这个案例把重复发生的企业事件当作历史控制集，把当前反应与基准比较，再用相互竞争的解释检验差异，并明确下一轮更新需要哪些经营数据。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

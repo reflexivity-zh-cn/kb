@@ -3,7 +3,6 @@ id: RX-USECASE-0052
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-05
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 分析 hyperscaler 的表外义务
 
-**作者：** QUICK Corporation  
+[← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-05  
 **主要资产类别：** 股票、固定收益、多资产
 
 > 原资料提供了一个私有 Research 链接。本公开页面不会重构或猜测该私有结果，而是保留原始问题，并说明这个问题所隐含的研究框架。
 
-## 原始问题
+## 问题
 
 > 总结美国 hyperscaler 的表外债务。
 
@@ -87,5 +87,10 @@ publication_mode: faithful-source-preserving
 这里不复制私有 Research 结果。这个使用案例的公开价值，在于先区分不同合同义务，再把它们连接到股票和信用风险的分析结构。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

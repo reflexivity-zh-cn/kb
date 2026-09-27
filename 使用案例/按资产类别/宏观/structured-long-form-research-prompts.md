@@ -3,7 +3,6 @@ id: RX-USECASE-0039
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-06-18
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 用长指令结构化复杂研究
 
-**作者：** QUICK Inc.  
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-06-18  
 **主要资产：** 宏观、股票、多资产  
-**适用用户：** Long-only 资产管理人、对冲基金 Tier 1、对冲基金 Tier 2
+**适用用户：** Long-only 资产管理人、对冲基金
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。客户名、收件人、邮箱、签名和私有 Conversation URL 已移除，同时尽可能保留原 prompt 示例及其意图。
+> 本案例保留原 prompt 示例及其意图。
 
 ## 什么时候适合这种方法
 
@@ -94,5 +94,10 @@ publication_mode: faithful-source-preserving
 这个工作流展示了如何在 prompt 本身设计研究流程，让复杂多步骤分析始终与最终决策问题相连，而不是变成彼此无关的事实集合。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

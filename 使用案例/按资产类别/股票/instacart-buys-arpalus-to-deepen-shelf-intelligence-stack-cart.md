@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394
 -->
 
-# Instacart：收购 Arpalus，强化货架智能能力 (CART) — 看多
+# Instacart：收购 Arpalus，强化货架智能能力 (CART)
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**角色：** 对冲基金<br>
+**洞察类型：** Company Catalyst<br>
+**信号：** 看多<br>
+**日期：** 2026-07-16
 
-> **审核稿** — 以下为 2026 年 7 月 16 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
-
-**角色:** 对冲基金 Tier 3（小型 / 新兴）  
-**洞察类型:** Company Catalyst  
-**信号:** 看多
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
 
@@ -47,11 +43,13 @@ Reflexivity 将其重新解释为企业软件 / 零售工作流扩张，而不�
 
 PM 可在一个页面看到交易细节：目标公司 Arpalus、货架智能应用、宣称超过 95% 的准确率，以及覆盖约 10 万家门店、2200 多个品牌横幅，从而判断市场怀疑是否构成机会。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)
 
 ---
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999
 -->
 
-# Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA) — 看多
+# Nvidia：5000 亿美元 AI 基础设施融资计划 (NVDA)
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**角色：** 对冲基金<br>
+**洞察类型：** Company Catalyst<br>
+**信号：** 看多<br>
+**日期：** 2026-08-11
 
-> **审核稿** — 以下为 2026 年 8 月 11 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
-
-**角色:** 对冲基金 Tier 1（大型基金 Pod Shop）  
-**洞察类型:** Company Catalyst  
-**信号:** 看多
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)**
 
@@ -47,11 +43,13 @@ Nvidia 与 Apollo、BlackRock、Blackstone、Brookfield 宣布一项 5000 亿美
 
 Pod 可以在半导体、电力、数据中心公司中广泛表达该主题，同时根据 5000 亿美元标题与尚未验证的部署时间表之间的差距，判断映射强度。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)
 
 ---
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

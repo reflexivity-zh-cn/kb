@@ -3,7 +3,6 @@ id: RX-USECASE-0055
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-17
 status: published
@@ -15,11 +14,12 @@ publication_mode: faithful-source-preserving
 
 # 使用 Market Catalyst 把新闻连接到主题、国家和公司
 
-**作者：** QUICK Corporation  
+[← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-17  
 **主要资产类别：** 股票、宏观、多资产
 
-> 本页保留 QUICK 提供的使用案例，同时移除客户、收件人、签名和私有链接信息。
+> 本案例
 
 ## 什么时候适合使用这个工作流
 
@@ -33,7 +33,7 @@ publication_mode: faithful-source-preserving
 
 目标不是停留在摘要，而是把新闻转化为结构化的后续研究队列。
 
-## 原资料中的催化剂示例
+## 催化剂示例
 
 QUICK 原资料包括例如：
 
@@ -84,5 +84,10 @@ QUICK 原资料包括例如：
 这个工作流展示了如何从经过筛选的市场事件出发，追踪可能的传导路径，再把这些路径转化为具体的后续研究对象。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 多资产使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0060
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-21
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 为 Jackson Hole 讲话建立情景和潜在市场反应框架
 
-**作者：** QUICK Inc.  
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-21  
 **主要资产：** 宏观、固定收益、股票、FX  
-**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金 Tier 1
+**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金
 
 > 本页保留的是 2026-08-27 至 29 日 Jackson Hole 研讨会之前提供的**会前情景分析**。应把它理解为事件准备案例，而不是当前预测，也不是事后重构实际发生的结果。
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先确认关键发言人以及下一次 FOMC 的时间距离；再检查通胀和就业，查看市场定价与投资者仓位；随后构建偏鸽 / 中性 / 偏鹰情景，并用过去 Jackson Hole 的市场反应校准合理的事件风险规模。
 
-## 为什么原资料关注主席讲话
+## 为什么关注主席讲话
 
 原资料关注主席在 8 月 28 日的 keynote，当届研讨会在 8 月 27–29 日举行，主题为 **Financial Innovation: Implications for Payments and Policy**。
 
@@ -43,7 +43,7 @@ publication_mode: faithful-source-preserving
 
 原资料描述的宏观背景是混合的：通胀仍高于目标，同时劳动力数据有所转弱。这形成了通胀控制与增长 / 就业风险之间的张力，而不是单向政策环境。
 
-## 原资料中的会前市场定价
+## 会前市场定价
 
 原资料把 9 月 FOMC 的市场定价概括为：
 
@@ -93,7 +93,7 @@ publication_mode: faithful-source-preserving
 
 比较的目的只是建立事件风险的数量级，而不是说过去的反应会机械地预测下一次讲话。
 
-## 原资料时点的市场背景
+## 当时的市场背景
 
 截至原资料中的 8 月 20 日：
 
@@ -121,5 +121,10 @@ publication_mode: faithful-source-preserving
 这个案例展示了如何为政策事件做准备，而不是把任务简化成“预测讲话”：明确事件为什么重要，定义替代情景，衡量市场已经定价了什么，用历史事件校准反应幅度，再把结果连接到下一次政策决定。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

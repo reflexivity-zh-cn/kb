@@ -16,12 +16,14 @@ publication_mode: faithful-source-preserving
 
 # 从反证角度挑战“美国经济强劲”的投资假设
 
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产：** 宏观、跨资产  
 **适用用户：** CIO、宏观 PM、多资产 PM、策略师  
 **分析类型：** 反证分析、投资假设检验、情景分析
 
-> 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和当时的观察。它是检验投资假设的案例，而不是当前宏观预测。
+> 本案例保留底层 Reflexivity 研究和当时的观察。它是检验投资假设的案例，而不是当前宏观预测。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
 
@@ -85,7 +87,7 @@ publication_mode: faithful-source-preserving
 | 信贷 | 暂无明显压力 | 贷款与逾期数据未显示急剧恶化 |
 | 利率 / 政策传导 | 约束性 | 实际利率和紧缩滞后效应仍是拖累 |
 
-## 原研究的概率加权周期判断
+## 概率加权周期判断
 
 - **周期后段：50%**
 - **可持续增长：30%**

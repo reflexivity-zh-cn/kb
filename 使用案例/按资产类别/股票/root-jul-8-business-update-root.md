@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/root-jul-8-business-update-root.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b
 -->
 
-# Root：7 月 8 日业务更新 (ROOT) — 中性
+# Root：7 月 8 日业务更新 (ROOT)
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**角色：** 对冲基金<br>
+**洞察类型：** Earnings Catalyst<br>
+**信号：** 中性<br>
+**日期：** 2026-07-08
 
-> **审核稿** — 以下为 2026 年 7 月 8 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
-
-**角色:** 对冲基金 Tier 2  
-**洞察类型:** Earnings Catalyst  
-**信号:** 中性
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)**
 
@@ -47,11 +43,13 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 
 PM 会被引导避免追逐未经确认的上涨。平台将其视为需要后续确认的预期上调，并指出下一次应关注的具体披露。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)
 
 ---
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

@@ -15,12 +15,14 @@ publication_mode: faithful-source-preserving
 
 # 用多组参数和样本外测试检验 EUR/USD RSI 策略
 
+[← FX 使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产：** FX（EUR/USD）  
 **适用用户：** FX PM、量化研究员、系统化投资者  
 **分析类型：** 回测、walk-forward 分析、稳健性检验
 
-> 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
+> 本案例保留底层 Reflexivity 研究和经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 

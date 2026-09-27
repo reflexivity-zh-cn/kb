@@ -3,7 +3,6 @@ id: RX-USECASE-0053
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-19
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 从整条收益率曲线理解美国 30 年期收益率上升
 
-**作者：** QUICK Inc.  
+[← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-19  
 **主要资产：** 固定收益、宏观  
-**适用用户：** Long-only 资产管理人、对冲基金 Tier 1
+**适用用户：** Long-only 资产管理人、对冲基金
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。客户名、收件人、邮箱、签名和私有 URL 已移除，同时尽可能保留原问题、分析顺序、证据和结论。数字和市场环境均为提供日期时的快照。
+> 本案例保留原问题、分析顺序、证据和结论。数字和市场环境均为提供日期时的快照。
 
 > 美国 30 年期国债收益率正在上升。整体收益率曲线正在发生什么变化？
 
@@ -103,7 +103,7 @@ publication_mode: faithful-source-preserving
 
 当政策利率稳定而长端继续上升时，下一步重点应转向财政政策、国债供给、通胀预期和期限溢价。
 
-## 局限与来源基础
+## 局限与资料来源
 
 - Treasury yields 为 constant-maturity 年化收益率；利差采用一致的收益率差定义。
 - 变化基于日收盘，不反映日内波动。
@@ -115,5 +115,10 @@ publication_mode: faithful-source-preserving
 这个案例展示了如何把单一期限的 headline move 扩展成整条曲线分析，区分不同测量窗口，并借助历史政策阶段判断何时应该更多关注财政、供给或期限溢价因素。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # 筛选美国收益率曲线中的陡峭化与平坦化候选
 
+[← 固定收益使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要资产：** 固定收益（美国利率）  
 **适用用户：** 固定收益 PM、利率投资者、相对价值投资者  
@@ -25,7 +27,7 @@ publication_mode: faithful-source-preserving
 
 **[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
-## 这份来源修正了什么
+## 修正内容
 
 早期输出中，部分显示的交易标签与底层经济逻辑不一致。这份 follow-up 修正了该问题。
 

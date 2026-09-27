@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7
 -->
 
-# Cardinal Health：业绩干净超预期，FY27 展望更强 (CAH) — 看多
+# Cardinal Health：业绩干净超预期，FY27 展望更强 (CAH)
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**角色：** 对冲基金<br>
+**洞察类型：** Earnings Catalyst<br>
+**信号：** 看多<br>
+**日期：** 2026-08-11
 
-> **审核稿** — 以下为 2026 年 8 月 11 日时点的平台输出。使用前请与最新市场数据核对，或作为说明性案例展示。
-
-**角色:** 对冲基金 Tier 2  
-**洞察类型:** Earnings Catalyst  
-**信号:** 看多
+> 本案例是特定时点的平台输出。用于当前投资判断前，请先与最新市场数据核对；否则应仅作为说明性案例使用。
 
 **[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
 
@@ -47,11 +43,13 @@ Cardinal Health 的 EPS 为 $2.91，比一致预期高 20.25%，FY2027 指引也
 
 大盘股 PM 可以围绕新的指引重置仓位，在无需重建模型的情况下权衡药品分销利润率的持续性与较弱的医疗产品业务。
 
-## Resource
+## 资料
 
+- **来源资料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中打开该洞察](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)
 
 ---
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。

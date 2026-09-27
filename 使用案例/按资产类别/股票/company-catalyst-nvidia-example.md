@@ -3,7 +3,6 @@ id: RX-USECASE-0057
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-04
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 使用 Company Catalyst 追踪 NVIDIA 相关新闻的市场影响
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-04  
 **主要资产：** 股票  
-**适用用户：** Wealth Management / RIA、Long-only Asset Manager、Hedge Fund Tier 1、Hedge Fund Tier 2、Hedge Fund Tier 3
+**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金
 
-> 本页基于 QUICK Inc. 提供的使用案例。客户信息、邮件元数据和私有 URL 已移除，同时保留原研究顺序和原资料时点的市场背景。
+> 本案例保留原研究顺序和原资料时点的市场背景。
 
 原资料示例从一条与 NVIDIA 收购 Hugging Face 有关的 Company Catalyst 项目开始。
 
@@ -92,5 +92,10 @@ Company Catalyst 最有价值的时候，是它能够把一条 headline 转化�
 这个例子展示了如何从公司 headline 出发，经过市场反应和管理层框架，进入竞争、网络、监管和地域后果，同时不把 headline 本身当作最终投资结论。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

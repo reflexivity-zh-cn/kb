@@ -3,7 +3,6 @@ id: RX-USECASE-0042
 type: use-case
 language: zh
 locale: zh-CN
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-08
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 按潜在市场影响给本周美国事件排序
 
-**作者：** QUICK Inc.  
+[← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-08  
 **主要资产：** 宏观、股票、固定收益、FX  
-**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金 Tier 2
+**适用用户：** 财富管理 / RIA、Long-only 资产管理人、对冲基金
 
-> 本页依据 QUICK Inc. 提供的使用案例，从英文 canonical 文档本地化而来。数字、市场一致预期和事件时间均为原资料时点的快照。这个案例的价值在于优先级工作流，而不是历史日历本身。
+> 数字、市场一致预期和事件时间均为原资料时点的快照。这个案例的价值在于优先级工作流，而不是历史日历本身。
 
 > 列出本周最可能影响市场的美国经济数据和其他事件。
 
@@ -68,7 +68,7 @@ publication_mode: faithful-source-preserving
 - **能源：** EIA 原油库存、EIA 短期展望、OPEC 和 IEA 报告、天然气库存。
 - **仓位 / 供给：** CFTC 投机仓位以及周末附近的 Baker Hughes 钻机数。
 
-## 原资料总结
+## 总结
 
 原资料把 **8 月 CPI** 放在第一位，其次是 **PPI / 失业救济申请**和**密歇根调查**。核心逻辑是：对通胀敏感的数据可以改变 Fed 预期，因此可能同时提高股票、利率和 FX 的波动；较低层级事件则更集中于特定市场或行业。
 
@@ -90,5 +90,10 @@ publication_mode: faithful-source-preserving
 这个案例把每周宏观日历转化成有顺序的监控计划：先看能推动政策预期的事件，再看确认或反驳数据，最后看市场特定的供给和行业输入。
 
 ---
+
+
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
