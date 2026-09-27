@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/ai-chip-de-rating-hits-semiconductor-etfs-smh.md
+canonical_path: usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md
 status: draft
 translation_status: review-needed
 -->
 
 # AI 芯片去评级拖累半导体 ETF (SMH) — 看空
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ Reflexivity 将其解释为估值压缩 / 需求持续性争论，而不是收�
 
 ---
 
-[← 对冲基金 Tier 1](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
