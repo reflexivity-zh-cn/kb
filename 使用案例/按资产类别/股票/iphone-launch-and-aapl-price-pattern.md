@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 > 分析过去五年新 iPhone 发布与 AAPL 股价之间的关系，并分析最新 Duo 发布后的市场反应。
 
+![iPhone 发布前后的 AAPL 股价走势](../../../图片/使用案例/quick/RX-USECASE-0046/source-visuals.webp)
+
 ## 研究目标
 
 单次新品发布后的股价变化，并不能说明这种反应是 Apple 产品事件的典型模式，还是只属于当前这次发布。
@@ -89,10 +91,6 @@ publication_mode: faithful-source-preserving
 4. 用供给、利润率和公司特有风险挑战正面解释；
 5. 等真实经营数据出现后更新观点。
 
-## 视觉资料
-
-经审阅的日文公开页面中有经过验证的 QUICK 原始图。该图片尚未以字节一致方式同步到下游仓库，因此本页不发布损坏链接或替代图片。
-
 ## 资料来源
 
 - Entity: AAPL:NASD
@@ -104,7 +102,6 @@ publication_mode: faithful-source-preserving
 这个案例把重复发生的企业事件当作历史控制集，把当前反应与基准比较，再用相互竞争的解释检验差异，并明确下一轮更新需要哪些经营数据。
 
 ---
-
 
 本内容由 QUICK 提供。
 

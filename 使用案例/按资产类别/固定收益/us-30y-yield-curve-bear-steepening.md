@@ -62,6 +62,10 @@ publication_mode: faithful-source-preserving
 
 原资料以 **2026-08-17** 为参考日，使用 FRED 日度 constant-maturity Treasury yields。非交易日以前一交易日数值填充，三个月比较使用约 91 天前最近的交易日。
 
+![美国国债各期限收益率变化](../../../图片/使用案例/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+
+![当前与三个月前的美国国债收益率曲线](../../../图片/使用案例/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+
 ## 为什么接下来要与过去政策周期比较？
 
 确认当前走势由长端主导后，下一步是判断这种模式是否符合典型的加息或降息周期。如果不符合，就需要把视线从政策利率转向财政、供给、通胀和期限溢价。
@@ -86,6 +90,8 @@ publication_mode: faithful-source-preserving
 | 2015–18 | 加息 | 0.24% → 2.27% | -103 bp | +11 bp | Bear flattening |
 | 2007–08 | 降息 | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
 | 2004–06 | 加息 | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
+
+![历史政策阶段的 2s10s 利差与 Fed Funds](../../../图片/使用案例/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ## 为什么“熊市陡峭化”和“熊市平坦化”会同时出现
 
@@ -115,7 +121,6 @@ publication_mode: faithful-source-preserving
 这个案例展示了如何把单一期限的 headline move 扩展成整条曲线分析，区分不同测量窗口，并借助历史政策阶段判断何时应该更多关注财政、供给或期限溢价因素。
 
 ---
-
 
 本内容由 QUICK 提供。
 

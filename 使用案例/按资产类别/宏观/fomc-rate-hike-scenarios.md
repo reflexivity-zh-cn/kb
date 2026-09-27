@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 原问题可概括为：考虑通胀、油价上涨和更广泛的宏观背景，FOMC 本周会议上，主席可能如何讨论潜在加息？
 
+![FOMC 加息情景分析](../../../图片/使用案例/quick/RX-USECASE-0041/source-visuals.webp)
+
 ## 研究目标
 
 在 FOMC 会议前，很容易只关注**加息还是维持不变**。但市场反应不仅取决于政策决定，也取决于主席如何解释未来的反应函数。即使某个结果最终发生，如果市场已经高度定价，反应也可能有限。
@@ -82,7 +84,6 @@ publication_mode: faithful-source-preserving
 这个案例展示了如何围绕宏观约束、市场已定价内容、替代政策路径，以及验证或推翻每条路径的沟通方式来组织事件风险研究。
 
 ---
-
 
 本内容由 QUICK 提供。
 

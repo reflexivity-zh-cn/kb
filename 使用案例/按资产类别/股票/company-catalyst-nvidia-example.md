@@ -45,7 +45,7 @@ publication_mode: faithful-source-preserving
 
 理解事件后，下一步是观察市场多快把信息计入价格。即使一项公告具有重大战略意义，如果估值、交易成本或市场担心的整合风险抵消了战略逻辑，股价反应仍可能温和甚至为负。
 
-经审阅的日文公开页面包含一张经过验证的 QUICK 市场反应原始图。该图片尚未以字节一致方式同步到英文及下游仓库，因此本页有意不发布损坏链接或替代图。
+![NVIDIA catalyst 的市场反应](../../../图片/使用案例/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## 阅读管理层的解释
 
@@ -92,7 +92,6 @@ Company Catalyst 最有价值的时候，是它能够把一条 headline 转化�
 这个例子展示了如何从公司 headline 出发，经过市场反应和管理层框架，进入竞争、网络、监管和地域后果，同时不把 headline 本身当作最终投资结论。
 
 ---
-
 
 本内容由 QUICK 提供。
 
