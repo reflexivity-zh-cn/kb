@@ -11,6 +11,9 @@
 - [从整条收益率曲线理解美国 30 年期收益率上升](us-30y-yield-curve-bear-steepening.md) — `RX-USECASE-0053`
 - [比较 EUR/USD 与欧元—美元掉期利差的变化](eurusd-vs-eur-usd-swap-spread.md) — `RX-USECASE-0062`
 
+- [比较美国 10 年期国债收益率 5% 门槛与过去 20 年](us-10y-yield-5-percent-threshold.md)
+- [按发行人、资金用途、供需和收益率分析美国债券发行市场](us-bond-issuance-market-analysis.md)
+
 英文 canonical 中当前 reviewed Fixed Income surface 已全部同步为简体中文。stable ID、数字、日期、限制条件、来源区分和原有不确定性均保持一致。
 
 ---

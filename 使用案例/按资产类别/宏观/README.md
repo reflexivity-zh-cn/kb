@@ -12,6 +12,8 @@
 - [用 Market Catalyst 快速筛选 Beige Book 的市场重点](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
 - [为 Jackson Hole 讲话建立情景和潜在市场反应框架](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
 
+- [观察美中峰会前后 S&P 500 的走势](us-china-summit-sp500-impact.md)
+
 ## 相关跨资产使用案例
 
 正文只保留在其主要资产类别位置，这里通过链接复用。

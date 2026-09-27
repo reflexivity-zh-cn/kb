@@ -6,11 +6,11 @@
 
 ## 资产类别
 
-- [FX](FX/README.md) — 已同步英文 canonical 的 3 篇页面
-- [固定收益](固定收益/README.md) — 已同步英文 canonical 的 6 篇页面
-- [宏观](宏观/README.md) — 已同步英文 canonical 的 7 篇页面
-- [股票](股票/README.md) — 已同步英文 canonical 的 8 篇页面
-- [多资产](多资产/README.md) — 已同步英文 canonical 的 10 篇页面
+- [FX](FX/README.md) — 3 篇案例
+- [固定收益](固定收益/README.md) — 8 篇案例
+- [宏观](宏观/README.md) — 8 篇案例
+- [股票](股票/README.md) — 10 篇案例
+- [多资产](多资产/README.md) — 10 篇案例
 
 当前已完成本轮经审阅资产类别使用案例的 zh-CN 同步。
 
