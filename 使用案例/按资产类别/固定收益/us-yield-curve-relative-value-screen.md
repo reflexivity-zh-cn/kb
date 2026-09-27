@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 这份来源是一次纠错后的 follow-up，并不是完整的原始研究包。本页只保留实际提供的修正筛选表和决策逻辑，不重构缺失的早期输出。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+
 ## 这份来源修正了什么
 
 早期输出中，部分显示的交易标签与底层经济逻辑不一致。这份 follow-up 修正了该问题。

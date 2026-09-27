@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本页依据英文 canonical 文档本地化，保留原始研究逻辑和当时的市场观察，并纳入经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究目标
 
 原研究并不是简单地要求“研究 EUR/USD”，而是把 PM 希望反复检查的问题整理成可重复执行的清单，使同一套决策过程可以持续更新。原研究最后更新于 **2025-08-28**。

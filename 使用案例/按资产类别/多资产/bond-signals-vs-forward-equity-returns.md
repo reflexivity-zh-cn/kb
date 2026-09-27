@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 本页保留一份真实 Reflexivity Research 输出的研究逻辑，而不是只保留结论。数字和市场观察均对应原研究时点。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究检验了什么
 
 问题是：某个债券市场利差出现较大变动时，之后的 S&P 500 收益是否会呈现可识别的模式。

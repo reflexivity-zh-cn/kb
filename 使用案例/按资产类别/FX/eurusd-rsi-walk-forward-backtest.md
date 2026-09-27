@@ -22,6 +22,9 @@ publication_mode: faithful-source-preserving
 
 > 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和经日文版审阅确认的推理衔接。数字和市场环境均为原研究时点的历史快照，不构成当前投资建议。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
 ## 研究目标
 
 如果在看过历史数据之后才挑选某个 RSI 周期或阈值，策略很容易显得格外漂亮。因此，一个“最佳参数”并不能说明策略具备可重复的优势，也可能只是对样本过拟合。

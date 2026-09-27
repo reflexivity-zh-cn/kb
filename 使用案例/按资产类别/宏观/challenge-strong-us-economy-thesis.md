@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和当时的观察。它是检验投资假设的案例，而不是当前宏观预测。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
 ## 出发问题
 
 研究并不是为“美国经济很强”这一 headline 观点搜集支持材料，而是问：**这个观点正在什么地方开始失效？**

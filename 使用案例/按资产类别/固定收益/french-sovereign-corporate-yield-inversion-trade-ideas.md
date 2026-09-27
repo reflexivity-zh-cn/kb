@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和当时的市场观察。下文交易和价格水平均为历史研究输出，不构成当前建议。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
 ## 出发点
 
 原研究从一个异常关系开始：法国主权债收益率与高质量法国公司债收益率之间出现反常结构，同时政治风险上升。研究问题不仅是这种错位是否有意义，还包括：**如何在不同市场中表达这一观点？**

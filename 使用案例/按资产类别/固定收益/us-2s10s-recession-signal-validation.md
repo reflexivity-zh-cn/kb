@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本页保留一份带明确日期的 Reflexivity 研究输出及其局限。原研究中有一项统计值看起来需要重新验证，因此以下结果不应被视为已经独立核实的历史事实。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究问题
 
 **美国 2 年期 / 10 年期国债利差倒挂，历史上是否能提前 9–12 个月预示经济衰退？**

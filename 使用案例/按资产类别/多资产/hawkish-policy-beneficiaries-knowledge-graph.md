@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 本页保留真实 Reflexivity Research 输出的结构和限制。重点不是声称 Graph 中每一条连接都代表直接的盈利敏感度，而是展示如何把宏观观点转化为下一步可研究的资产、行业和公司集合。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究问题
 
 研究没有停留在“鹰派政策意味着更高利率”这一层，而是把观点沿三个层级展开：

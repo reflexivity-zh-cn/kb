@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本页保留一份带明确日期的 Reflexivity 研究输出。目的不是依据 headline 接受市场叙事，而是展示如何用多组独立证据检验它。
 
+
+**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+
 ## 研究问题
 
 **“美国经济很强”这一叙事，是否得到广泛证据支持，还是主要由少数强势 headline 观察推动？**
