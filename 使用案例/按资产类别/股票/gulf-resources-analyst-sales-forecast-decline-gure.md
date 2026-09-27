@@ -18,8 +18,7 @@ translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af
 -->
 
-# Gulf Resources：分析师下调销售预测 (GURE) — 看空信号
-
+# Gulf Resources：分析师下调销售预测 (GURE)
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 **角色：** 对冲基金<br>

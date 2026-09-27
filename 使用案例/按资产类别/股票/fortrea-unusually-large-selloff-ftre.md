@@ -18,8 +18,7 @@ translation_status: current
 source_url: https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241
 -->
 
-# Fortrea：异常大幅抛售 (FTRE) — 看空信号
-
+# Fortrea：异常大幅抛售 (FTRE)
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 **角色：** 对冲基金<br>

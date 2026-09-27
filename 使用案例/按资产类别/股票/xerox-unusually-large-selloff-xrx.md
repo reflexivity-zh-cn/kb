@@ -18,8 +18,7 @@ translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c
 -->
 
-# Xerox：异常大幅抛售 (XRX) — 看多信号
-
+# Xerox：异常大幅抛售 (XRX)
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 **角色：** 对冲基金<br>
