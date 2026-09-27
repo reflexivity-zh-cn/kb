@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
+canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
 status: draft
 translation_status: review-needed
 -->
 
 # Cardinal Health：业绩干净超预期，FY27 展望更强 (CAH) — 看多
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ Cardinal Health 的 EPS 为 $2.91，比一致预期高 20.25%，FY2027 指引也
 
 ---
 
-[← 对冲基金 Tier 2](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有问题或需要更多信息，请联系 **gtm@reflexivity.com**。
