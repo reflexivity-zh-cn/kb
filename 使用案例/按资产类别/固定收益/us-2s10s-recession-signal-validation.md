@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本页保留一份带明确日期的 Reflexivity 研究输出及其局限。原研究中有一项统计值看起来需要重新验证，因此以下结果不应被视为已经独立核实的历史事实。
 
-
-**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究问题
 
@@ -79,7 +78,6 @@ publication_mode: faithful-source-preserving
 
 这个案例同时展示了自动化假设检验的价值和边界：Reflexivity 可以结构化历史测试并暴露误报，但分析者仍需要质疑异常统计，并在把输出当作既定证据之前验证数据定义。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

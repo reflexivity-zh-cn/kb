@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Market Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
+
 ## 相关性
 
 Pod PM 需要快速判断 Palantir 的业绩究竟是公司自身因素，还是整个 AI 软件组的广泛需求信号。
@@ -45,7 +47,6 @@ PM 可立即看到 AI 软件同业的门槛已经提高，并决定在后续软�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)
 
 ---
 

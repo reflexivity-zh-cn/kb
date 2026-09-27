@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Earnings Catalyst  
 **信号:** 中性
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)**
+
 ## 相关性
 
 当大盘 REIT 的标题数字与运营指标相互矛盾时，Tier 2 PM 必须快速决定应如何调整仓位。
@@ -45,7 +47,6 @@ PM 可以围绕上调的指引及资本回报进行仓位判断：股息提高 4
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)
 
 ---
 

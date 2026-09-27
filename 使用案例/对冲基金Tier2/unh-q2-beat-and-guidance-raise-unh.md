@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Earnings Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
+
 ## 相关性
 
 大型公司 beat-and-raise 会影响整个组合，Tier 2 PM 需要快速判断这次业绩改变的是投资逻辑，还是仅改变短期交易表现。
@@ -45,7 +47,6 @@ PM 可直接获得可执行数字：Q2 EPS $6.38 vs $4.85 预期，收入 $112.0
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)
 
 ---
 

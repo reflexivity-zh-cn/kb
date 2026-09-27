@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本页保留一份带明确日期的 Reflexivity 研究输出。目的不是依据 headline 接受市场叙事，而是展示如何用多组独立证据检验它。
 
-
-**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
 
 ## 研究问题
 
@@ -97,7 +96,6 @@ headline 看起来强劲，但更广泛的劳动力证据并没有同样支持�
 
 这个案例展示了如何在多个独立证据集之间衡量叙事广度，并识别 headline 很强、但市场内部或经济整体并未同样确认的环境。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
 ---
 

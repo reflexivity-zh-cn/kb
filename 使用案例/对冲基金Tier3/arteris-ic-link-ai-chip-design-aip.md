@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Company Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)**
+
 ## 相关性
 
 这是单人创始人 PM 很难独立研究的典型低覆盖小盘股。
@@ -45,7 +47,6 @@ PM 可在几分钟内形成差异化的小盘股观点，并明确知道下一�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)
 
 ---
 

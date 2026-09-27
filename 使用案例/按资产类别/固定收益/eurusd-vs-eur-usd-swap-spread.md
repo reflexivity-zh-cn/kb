@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 **作者：** Reflexivity Research  
 **主要资产：** 固定收益、利率、FX、多资产
 
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究问题
 
 比较 EUR/USD 的变化与欧元掉期和美元掉期之间利差的变化，观察汇率变化如何对应相对利率定价的变化。
@@ -37,7 +39,6 @@ publication_mode: faithful-source-preserving
 
 对利率投资者，它把掉期定价变化与外汇市场连接起来；对多资产投资者，它是用两个市场表达检验同一宏观假设的紧凑案例。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

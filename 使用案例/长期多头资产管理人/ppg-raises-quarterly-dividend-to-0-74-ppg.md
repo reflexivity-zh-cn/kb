@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Company Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
+
 ## 相关性
 
 提高股息是一个低噪音信号，适合重视长期资本回报而非单日波动的 quality-focused buy-and-hold mandate。
@@ -45,7 +47,6 @@ PM 可快速了解资本配置姿态：股息从 $0.71 提高至 $0.74，经董�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---
 

@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 这份来源是一次纠错后的 follow-up，并不是完整的原始研究包。本页只保留实际提供的修正筛选表和决策逻辑，不重构缺失的早期输出。
 
-
-**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
 ## 这份来源修正了什么
 
@@ -73,7 +72,6 @@ publication_mode: faithful-source-preserving
 
 这次修正之所以有价值，是因为它展示了一套能够在显示逻辑与经济逻辑不一致时主动修正结果的研究过程。可复用的模式是：**历史位置 → carry/rolldown → 综合交易分类 → 当各组成部分不支持 headline 信号时进行修正**。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

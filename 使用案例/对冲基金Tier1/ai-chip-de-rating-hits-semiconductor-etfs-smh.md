@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Market Catalyst  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
+
 ## 相关性
 
 当龙头公司业绩超预期、但拥挤的半导体组合整体仍被去评级时，Pod PM 需要快速、可审计地理解全局。
@@ -45,7 +47,6 @@ Reflexivity 将其解释为估值压缩 / 需求持续性争论，而不是收�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)
 
 ---
 

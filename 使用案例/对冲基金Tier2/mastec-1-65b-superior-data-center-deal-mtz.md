@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Company Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
+
 ## 相关性
 
 Tier 2 PM 很难持续跟上整个组合中的全部催化，这类交易很容易被遗漏。
@@ -45,7 +47,6 @@ PM 可以快速构建更广泛的数据中心与电力建设主题，看到哪�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)
 
 ---
 

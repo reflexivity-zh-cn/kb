@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本页依据英文 canonical 文档本地化，保留底层 Reflexivity 研究和当时的市场观察。下文交易和价格水平均为历史研究输出，不构成当前建议。
 
-
-**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
 ## 出发点
 
@@ -96,7 +95,6 @@ EUR/USD、EUR/CHF 和 EUR/JPY 空头均被列为可能表达方式，也包括�
 
 这个案例展示了如何从主权—信用市场的异常关系出发，构建利率、信用、FX、股票、波动率和基差市场中的多种表达方式，同时明确保留失效条件，而不是停留在市场叙事层面。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

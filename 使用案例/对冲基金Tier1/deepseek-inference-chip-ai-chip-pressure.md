@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Market Catalyst  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)**
+
 ## 相关性
 
 Pod PM 需要对拥挤的半导体组合做出快速、可审计的反应，这也说明实时推送警报为什么对这一类用户重要。
@@ -45,7 +47,6 @@ PM 可立即看出替代风险主要集中在高估值的 merchant GPU，而多�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)
 
 ---
 

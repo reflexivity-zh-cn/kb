@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Scenario Insight  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
 ## 相关性
 
 这是单人 PM 必须快速判断仓位的典型低覆盖微盘股信号。随着分析师销售预测下调，GURE 交易在约 $2.85，当日下跌 6.86%。
@@ -45,7 +47,6 @@ PM 可据此判断是在预测下调时逆势操作还是做空，同时跟踪�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)
 
 ---
 

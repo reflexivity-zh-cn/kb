@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Earnings Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
+
 ## 相关性
 
 Middleby EPS 为 $2.35，高于预期 10.33%，收入增长 17.15% 至 $876M；但在 Food Processing 分拆后，股价自 8 月 7 日收盘以来下跌 8.59%。
@@ -45,7 +47,6 @@ Long-only PM 可以把回调视为资本配置质量检查，在决定持有还�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)
 
 ---
 

@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Market Catalyst  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)**
+
 ## 相关性
 
 黄金抛售会引发大量当天的客户问题，即使顾问没有研究团队也必须快速作答。
@@ -45,7 +47,6 @@ Reflexivity 用通俗方式展示完整传导链：临时协议降低避险需�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)
 
 ---
 

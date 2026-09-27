@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 本页保留一份真实 Reflexivity Research 输出的研究逻辑，而不是只保留结论。数字和市场观察均对应原研究时点。
 
-
-**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究检验了什么
 
@@ -69,7 +68,6 @@ publication_mode: faithful-source-preserving
 
 这项研究展示了如何把跨资产直觉转化为可测量的检验，把当前观察放进历史语境，并判断表面关系是否足够强，值得进一步使用。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

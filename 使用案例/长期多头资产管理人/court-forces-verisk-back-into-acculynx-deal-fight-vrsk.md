@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Company Catalyst  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)**
+
 ## 相关性
 
 这是一个长期持有决策更多取决于资本配置和组合形态、而不是单季业绩的 quality compounder 案例。
@@ -45,7 +47,6 @@ Long-only PM 可以直接判断管理层是重新承诺该交易还是继续争�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)
 
 ---
 

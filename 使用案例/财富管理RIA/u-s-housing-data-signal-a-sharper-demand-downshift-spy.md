@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Market Catalyst  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
+
 ## 相关性
 
 宏观需求下行是没有研究团队的顾问仍需在当天向客户解释的典型自上而下信号。
@@ -45,7 +47,6 @@ Reflexivity 将其解释为住房相关周期股——住宅建筑商、供应�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)
 
 ---
 

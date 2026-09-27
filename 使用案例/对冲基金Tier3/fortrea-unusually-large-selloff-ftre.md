@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Scenario Insight  
 **信号:** 看空
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
+
 ## 相关性
 
 这是典型的低覆盖小盘股场景：单人创始人 PM 很难自行量化一次大幅抛售之后意味着什么。
@@ -45,7 +47,6 @@ PM 可在几分钟内完成投资逻辑检查。历史分布明显偏负面：6 
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)
 
 ---
 

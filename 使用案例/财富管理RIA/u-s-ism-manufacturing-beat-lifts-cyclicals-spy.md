@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Market Catalyst  
 **信号:** 看多
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
 ## 相关性
 
 更强的美国制造业数据正是会触发客户当日提问、要求顾问快速解释的典型自上而下信号。
@@ -45,7 +47,6 @@ ISM Manufacturing 为 53.3，高于 52.8 的一致预期，新订单为 56.7；�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)
 
 ---
 

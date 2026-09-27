@@ -15,6 +15,8 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 **作者：** Reflexivity Research  
 **主要资产类别：** 多资产、宏观、股票、固定收益
 
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)**
+
 ## 研究问题
 
 阅读当天新闻，把大量信息压缩成五个值得进一步研究的投资想法。
@@ -42,7 +44,6 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 
 价值就在于**优先级排序这一步**：不是把每条 headline 当成同等重要，而是输出一个可管理的假设或主题清单，供下一步深入调查。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)
 
 ---
 

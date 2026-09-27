@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察类型:** Company Catalyst  
 **信号:** 中性
 
+**[在 Reflexivity 中打开这个研究示例 →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
 ## 相关性
 
 这类低覆盖小盘股产品催化需要单人 PM 快速判断：在全国发布当天，股价下跌 14.75% 至 $6.36。
@@ -45,7 +47,6 @@ PM 可在几分钟内完成投资逻辑检查，并决定是逆势看待抛售�
 
 ## Resource
 
-[打开 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---
 

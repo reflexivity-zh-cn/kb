@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 本页保留真实 Reflexivity Research 输出的结构和限制。重点不是声称 Graph 中每一条连接都代表直接的盈利敏感度，而是展示如何把宏观观点转化为下一步可研究的资产、行业和公司集合。
 
-
-**[在 Reflexivity 中打开原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中打开这个研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究问题
 
@@ -88,7 +87,6 @@ Graph 或 Sankey 图中的连线宽度**不是**现金流、盈利敏感度或�
 
 这个工作流展示了如何把宏观政策观点转化为结构化的传导渠道、行业和具体公司链条，再把这些候选交给后续更深入的基本面研究。
 
-[在 Reflexivity 中打开](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
 
 ---
 
